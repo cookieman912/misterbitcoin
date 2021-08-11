@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/misterbitcoin/static/css/main.2d459c96.chunk.css",
+    "main.css": "/misterbitcoin/static/css/main.49d4b878.chunk.css",
     "main.js": "/misterbitcoin/static/js/main.2540d353.chunk.js",
     "main.js.map": "/misterbitcoin/static/js/main.2540d353.chunk.js.map",
     "runtime-main.js": "/misterbitcoin/static/js/runtime-main.0ef63d76.js",
@@ -10,13 +10,13 @@
     "static/js/3.22b93bab.chunk.js": "/misterbitcoin/static/js/3.22b93bab.chunk.js",
     "static/js/3.22b93bab.chunk.js.map": "/misterbitcoin/static/js/3.22b93bab.chunk.js.map",
     "index.html": "/misterbitcoin/index.html",
-    "static/css/main.2d459c96.chunk.css.map": "/misterbitcoin/static/css/main.2d459c96.chunk.css.map",
+    "static/css/main.49d4b878.chunk.css.map": "/misterbitcoin/static/css/main.49d4b878.chunk.css.map",
     "static/js/2.77dcc58f.chunk.js.LICENSE.txt": "/misterbitcoin/static/js/2.77dcc58f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0ef63d76.js",
     "static/js/2.77dcc58f.chunk.js",
-    "static/css/main.2d459c96.chunk.css",
+    "static/css/main.49d4b878.chunk.css",
     "static/js/main.2540d353.chunk.js"
   ]
 }
